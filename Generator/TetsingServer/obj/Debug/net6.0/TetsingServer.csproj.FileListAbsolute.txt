@@ -1,0 +1,17 @@
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\TetsingServer.exe
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\TetsingServer.deps.json
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\TetsingServer.runtimeconfig.json
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\TetsingServer.dll
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\ref\TetsingServer.dll
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\TetsingServer.pdb
+C:\Users\Артём\source\repos\Generator\TetsingServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.AssemblyInfo.cs
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.csproj.CopyComplete
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.dll
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\ref\TetsingServer.dll
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.pdb
+C:\Users\Артём\source\repos\Generator\TetsingServer\obj\Debug\net6.0\TetsingServer.genruntimeconfig.cache

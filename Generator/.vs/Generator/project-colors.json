@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "725f0722-b6e0-45fb-bbff-89015558ae88": {
+      "ProjectGuid": "725f0722-b6e0-45fb-bbff-89015558ae88",
+      "DisplayName": "Generator",
+      "ColorIndex": 0
+    },
+    "a644b8a5-4ad8-457c-b24e-3069579d6818": {
+      "ProjectGuid": "a644b8a5-4ad8-457c-b24e-3069579d6818",
+      "DisplayName": "TetsingServer",
+      "ColorIndex": 1
+    },
+    "11ef01bd-36bb-4c05-b047-81d39e31cdeb": {
+      "ProjectGuid": "11ef01bd-36bb-4c05-b047-81d39e31cdeb",
+      "DisplayName": "Client",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

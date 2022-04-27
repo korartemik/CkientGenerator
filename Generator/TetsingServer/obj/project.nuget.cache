@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HPtGGWTHjog39OAWu9BESjk5m2r1oz6cttxqvrF6gebbEYnOVgMsaLv7nA0Y4ts9HpTDsm0Kwo+0RvFTG3QQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Артём\\source\\repos\\Generator\\TetsingServer\\TetsingServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артём\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
